@@ -221,7 +221,6 @@ h1{color: white;;
     height: 600px;
     margin: auto;
     padding-top: 2rem;
-    background-color: #fbdb9e;
     margin-bottom: 40px;
     text-align: center;
     
@@ -243,62 +242,103 @@ h1{color: white;;
     border-radius: 20px;
     padding: 15px;
     color: white;
-
-  
-
-
 }
 
 
 .containerfooter {
-    background-color: #4475fe;
+    background-color: #23272a;
     width: 100%;
     height: 400px;
 }
 
 .secfooter {
+    border-bottom: 1px solid #6c83d1 ;
     width: 80%;
-    height: 80%;
+    height: 100%;
     margin: auto;
     padding-top: 2rem;
-    background-color: #a398a3;
+    background-color: #23272a;
 }
 
 .rowfooter {
     max-width: 100%;
     height: 80%;
-    background-color: #aba8ac;
+    background-color: #23272a;
     display: flex;
     margin: 1px;
 }
 
 .colfooter {
-    background-color: #8ee2ab;
+    background-color: #23272a;
     width: 25%;
     height: 200px;
     margin: 1px;
 }
 
+.colfooter > h3 {
+    color: #6c83d1;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+#lng{color: white;}
+
+.social{ color: white;
+        margin: 2rem 0;
+        
+        }
+
 .col1 {
-    background-color: #d5b37b;
+    margin-top: 20px;
+    background-color: #23272a;
     width: 18%;
     height: 200px;
     margin-left: 5px;
 }
+.col1 > h4{ color: #6c83d1;;
+}
+
+
+.col1 > p {
+    padding-bottom: 10px;
+    padding-top: 5px;
+    color: white;
+}
 
 .bottomfooter {
     width: 100%;
-    height: 2rem;
+    height: 5rem;
+    margin: auto;
     display: flex;
     justify-content: space-between;
-    background-color: #aba8ac;
+    background-color: #23272a;
 }
 
+.space3{padding-left: 10.2rem;
+        padding-top: 1rem;}
+
+
+
 .space3, .space4{
-    background-color: #d5b37b;
-    border: 1px dashed black;
-    width: 10rem;
+    background-color: #23272a;
+    width: 20%;
     height: 2rem;
 }
 
 
+.space4{width: 20%;
+        margin-top: 22px;
+        margin-left: 10rem ;
+}
+
+.space4 > a {
+    text-decoration: none;
+    background-color: #8fa0e1;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 20px;
+    color: white;
+
+} 
+
+.bottomcenter{width: 80%;}
