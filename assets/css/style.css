@@ -134,6 +134,7 @@ h1{color: white;;
     margin: auto;
     height: 500px;
     padding-top: 20px;
+    font-family: 'gg sans', sans-serif;
 
 }
 
@@ -145,8 +146,9 @@ h1{color: white;;
     width: 80%;
     height: 80%;
     margin: auto;
+    padding-left: 70px;
     display: flex;
-    background-color: #fbdb9e;
+    
 }
 
 .containersection > h2{
@@ -155,11 +157,21 @@ h1{color: white;;
 
 }
 
+.imgtwo{margin-left: 100px;}
+
+.banner > h2{ margin-bottom: 20px;
+
+}
+
+
+
+
 .row {
-    width: 100%;
+    width: 20%;
     height: 90%;
-    text-align: center;
-    background-color: #cec2aa;
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 130px;
 }
 
 .col, .card{
@@ -206,11 +218,35 @@ h1{color: white;;
 
 .onlycontainer {
     width: 80%;
-    height: 400px;
+    height: 600px;
     margin: auto;
     padding-top: 2rem;
     background-color: #fbdb9e;
     margin-bottom: 40px;
+    text-align: center;
+    
+}
+
+.bottomfooter > h2 {
+    font-family: 'gg sans', sans-serif;
+}
+
+.bottomcontainer > h3 {
+    margin-top: -30px;
+    margin-bottom: 20px;
+    font-family: 'gg sans', sans-serif;
+}
+
+.bottomcontainer > a {
+    text-decoration: none;
+    background-color: #8fa0e1;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+
+  
+
+
 }
 
 
