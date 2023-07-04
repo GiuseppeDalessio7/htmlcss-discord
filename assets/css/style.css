@@ -158,6 +158,7 @@ h1{color: white;;
 .row {
     width: 100%;
     height: 90%;
+    text-align: center;
     background-color: #cec2aa;
 }
 
@@ -184,6 +185,7 @@ h1{color: white;;
     justify-content: center;
     width: 50%;
     height: 80%;
+    text-align: center;
 }
 
 .card2 {
