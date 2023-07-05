@@ -288,6 +288,10 @@ h1{color: white;;
         
         }
 
+.social > i {
+    margin-left: 0.75rem;
+}
+
 .col1 {
     margin-top: 20px;
     background-color: #23272a;
@@ -314,7 +318,7 @@ h1{color: white;;
     background-color: #23272a;
 }
 
-.space3{padding-left: 10.2rem;
+.space3{padding-left: 12rem;
         padding-top: 1rem;}
 
 
@@ -328,7 +332,7 @@ h1{color: white;;
 
 .space4{width: 20%;
         margin-top: 22px;
-        margin-left: 10rem ;
+        margin-left: 18rem ;
 }
 
 .space4 > a {
